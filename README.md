@@ -1,7 +1,7 @@
 # Low_credibility_classifier
 A Low-Credibility Website Classifier Developed for the Statistical Learning Course at IST 
 
-## A very modest attempt to build a low-credibility website classifier 
+## This is really a very modest attempt to build a low-credibility website classifier 
 
 ### Introduction
 This repository houses our initial attempt at building a low-credibility website classifier. The goal of this project is to identify websites that tend to publish or host fake content, categorizing them as low-credibility.
