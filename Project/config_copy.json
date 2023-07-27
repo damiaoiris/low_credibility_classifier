@@ -1,0 +1,15 @@
+{
+    "html_features":{
+    "frames": ["num_iframes"],
+    "social_media": ["has_social_media"],
+    "meta_tags": ["has_og_tag", "has_twitter_tag", "has_description", "has_keywords", "keywords_in_tag", "description_in_tag"],
+    "images": ["num_images"]
+    },
+    "domain_features": ["ft_contains_digit", "ft_contains_hyphen", "ft_length", "ft_novelty_tld", 
+    "ft_contains_news", "ft_newsy_domain", "ft_has_domain_ip", "ft_domain_ip_info"], 
+    "cert_features": ["ft_domain_validated", "ft_has_expired", "ft_self_signed", "ft_cert_lifetime", 
+    "ft_san_length", "ft_issuer_country", "ft_issuer_org", "ft_san_contains_wildcard", "ft_has_cert"],
+    "whois_features": ["ft_creation_elapsed_time", "ft_time_to_expiration", "ft_time_from_updated", 
+    "ft_whois_lifetime", "ft_domain_proxy", "ft_registrar", "ft_registrant_country", 
+    "ft_registrant_org", "ft_nameserver_sld", "ft_nameserver_ip_info"]  
+}
